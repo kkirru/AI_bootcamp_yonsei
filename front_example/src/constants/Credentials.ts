@@ -1,0 +1,1 @@
+export const SERVERLESS_API_ENDPOINT = '';
